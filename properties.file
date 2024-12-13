@@ -1,7 +1,7 @@
-# properties.file
 # AWS 자격증명
-ACCESS_KEY=AKIAU23kcU..
-SECRET_ACCESS_KEY=lKKw6..
-# APP-DB
-ACCESS_TOKEN=b809wvt..
+AWS_ACCESS_KEY_ID=AKIAU23kcU..
+AWS_SECRET_KEY=daf3fckAdkkfa..
+
+# 프라이빗환경 자격증명
+vsphere_password=!QAZxdkA
 DB_PASSWORD=admin202412
